@@ -1,3 +1,5 @@
 # HN-Tower
-NGUYỄN ĐÌNH H
-Phạm Minh Hằng
+
+- Nguyễn Đình Huỳnh
+-Phạm Minh Hằng
+
